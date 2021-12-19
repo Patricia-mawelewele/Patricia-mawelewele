@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Patricia-mawelewele
-- 👀 I’m interested in data science, machine learning and UX/UI design
-- 🌱 I’m currently learning python and data science
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in full stack development and UX/UI design
+- 🌱 I’m currently learning python and React
+- 💞️ I’m looking to collaborate on web and app development
 - 📫 How to reach me mawelewele.patricia@gmail.com || 2090259@students.wits.ac.za
 
 <!---
