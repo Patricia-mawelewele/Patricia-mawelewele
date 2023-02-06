@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack development and UX/UI design
 - 🌱 I’m currently learning python and React
 - 💞️ I’m looking to collaborate on web and app development
-- 📫 How to reach me mawelewele.patricia@gmail.com || 2090259@students.wits.ac.za
+- 📫 How to reach me mawelewele.patricia@gmail.com
 
 <!---
 Patricia-mawelewele/Patricia-mawelewele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
